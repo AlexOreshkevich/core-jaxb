@@ -1,0 +1,1 @@
+The project is designed to extend the functionality of JAXB-RI.
